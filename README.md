@@ -13,23 +13,6 @@ Here are some ideas to get you started:
 
 ## 🛠️ Languages and Tools
 
-// ... existing code ...
-
-# 👋 Hi there, I'm Luis
-
-I'm a university student, eager to learn and design new and better projects
-
-<!--
-**LuisF1203/LuisF1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-- 🔭 I'm currently working on personal projects
-- 📫 How to reach me: [E-mail](mailto:luisfer.montesblanco@Outlook.com)/[Linkedin](https://www.linkedin.com/in/luisfer--/)
-
-## 🛠️ Languages and Tools
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
