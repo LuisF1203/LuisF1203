@@ -15,7 +15,7 @@ I'm a university student with a passion for creating innovative solutions and be
   <a href="https://www.linkedin.com/in/luisfer--/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://stackoverflow.com/users/13374989/luis-fernando-montes-blanco">
+  <a href="https://es.stackoverflow.com/users/163233/luis-fernando-montes-blanco">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
   </a>
 </div>
