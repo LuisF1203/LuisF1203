@@ -59,17 +59,16 @@ I'm a university student with a passion for creating innovative solutions and be
   <img src="https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
 </div>
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisF1203&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisF1203&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisF1203&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisF1203&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" />
 </div>
 
-## 🔥 Streak Stats
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisF1203&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisF1203&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="39%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LuisF1203&layout=compact&theme=dark&hide_border=true" alt="WakaTime Stats" width="59%" />
 </div>
 
 ## 🎯 Currently Working On
